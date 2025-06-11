@@ -69,8 +69,15 @@ _If I had one, it would show a profile picture on top, name and bio underneath, 
 
 ---
 
+
 ## Walkthrough
-(https://i.imgur.com/iGQcQWG.gif)
+<div>
+    <a href="https://www.loom.com/share/493b1510c4b8440390fb48bbc202c9f3">
+    </a>
+    <a href="https://www.loom.com/share/493b1510c4b8440390fb48bbc202c9f3">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/493b1510c4b8440390fb48bbc202c9f3-f57e437ac15ee0aa-full-play.gif">
+    </a>
+
 
 ## Author
 
