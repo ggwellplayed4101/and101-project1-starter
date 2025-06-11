@@ -70,7 +70,7 @@ _If I had one, it would show a profile picture on top, name and bio underneath, 
 ---
 
 ## Walkthrough
-![App Walkthrough](https://i.imgur.com/iGQcQWG.gif)
+(https://i.imgur.com/iGQcQWG.gif)
 
 ## Author
 
